@@ -1,5 +1,5 @@
 # Linear-Regression-Using-Matrices
-It contains the solution to solve an overdetermined set of equations so as to minimize the sum of square of residual errors. 
+The main file contains the solution to solve an overdetermined set of equations so as to minimize the sum of square of residual errors. 
 
 ### Consider the following overdetermined system of linear equations:
     1. 0.25.x1 + 0.03.x2 = 0.97
