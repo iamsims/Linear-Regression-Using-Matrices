@@ -14,6 +14,6 @@ The residual is given by,
  
 To find the values of our parameters x1, x2 that minimizes the square of sum of residuals, we perform the following matrix operation:
 
-    X= (A<sup>T</sup>A)<sup>-1</sup>A<sup>T</sup>b , given that (A<sup>T</sup>A) is invertible
+X= (A<sup>T</sup>A)<sup>-1</sup>A<sup>T</sup>b , given that (A<sup>T</sup>A) is invertible
 
 
